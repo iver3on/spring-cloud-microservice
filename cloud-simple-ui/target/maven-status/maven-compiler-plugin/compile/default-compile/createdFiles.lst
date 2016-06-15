@@ -1,0 +1,4 @@
+cloud\simple\model\User.class
+cloud\simple\WebApplication.class
+cloud\simple\web\UserController.class
+cloud\simple\service\UserService.class
